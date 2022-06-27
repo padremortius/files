@@ -1,5 +1,5 @@
-module github.com/swaggo/files
+module github.com/padremortius/files
 
 go 1.15
 
-require golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
+require golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
