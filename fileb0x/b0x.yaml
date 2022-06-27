@@ -4,6 +4,10 @@ dest: "./"
 
 fmt: true
 
+compression:
+  compress: true
+  keep: true
+
 spread: true
 
 custom:
